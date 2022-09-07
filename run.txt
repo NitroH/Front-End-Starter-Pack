@@ -1,6 +1,0 @@
-start http://localhost:5000
-php -S localhost:5000
-start index.html
-cd "/src/"
-start index.ts
-start style.scss

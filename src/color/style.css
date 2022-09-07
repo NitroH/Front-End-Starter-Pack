@@ -1,0 +1,137 @@
+/*------------------------------------------------------------
+
+Project:	 Text
+Version:	 1.0
+Date:      06-08-2022
+
+---- TABLE OF CONTENTS ----
+
+1.0 -
+2.0 -
+3.0 -
+4.0 -
+5.0 -
+6.0 -
+7.0 -
+8.0 -
+9.0 -
+10.0 -
+11.0 -
+12.0 -
+13.0 -
+14.0 - 
+--------------------------------------------------------------*/
+/*--------------------------------------
+1.0 - Font Import
+--------------------------------------*/
+/*  Montserrat  */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900 display=swap");
+/*  Poppins  */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+/*--------------------------------------
+2.0 - Variable
+--------------------------------------*/
+/*--------------------------------------------------------------
+3.0 - General Styles
+--------------------------------------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  color: #383838;
+}
+
+h1 {
+  font-size: 200px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+h5 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #383838;
+  font-size: 18px;
+}
+
+a, a:focus, a:active, span {
+  text-decoration: none;
+  color: inherit;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+a:hover {
+  color: #383838;
+  transition-duration: 0.2s;
+  font-weight: 500;
+}
+
+ul {
+  list-style: none none;
+}
+
+/* Selection */
+::selection {
+  /*color*/
+  background: #f6f6f6;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  color: #383838;
+  font-family: "Poppins", sans-serif;
+  font-weight: 0;
+  scroll-behavior: smooth;
+}
+html,
+html *,
+body,
+body * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/*--------------------------------------
+4.0 - Content
+--------------------------------------*/
+main {
+  /* Here you put all your SCSS */
+}
+
+/*# sourceMappingURL=style.css.map */
