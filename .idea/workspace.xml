@@ -4,35 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c143e6-2840-4511-b509-af2e4647dd18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Front-End-Starter-Pack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/discord.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/french flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/moon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/icon/usa flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color/style.scss" afterDir="false" />
+    <list default="true" id="76c143e6-2840-4511-b509-af2e4647dd18" name="Changes" comment="last modif">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6a502854-59dd-4419-89dd-5c5544bcf3bf" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,8 +56,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662555636950</updated>
       <workItem from="1662555638180" duration="198000" />
-      <workItem from="1662555850192" duration="355000" />
+      <workItem from="1662555850192" duration="411000" />
     </task>
+    <task id="LOCAL-00001" summary="last modif">
+      <created>1662556231866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556231866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="last modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="last modif" />
   </component>
 </project>
